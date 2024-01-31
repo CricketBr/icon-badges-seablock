@@ -10,7 +10,7 @@ badgeset;group;subgroup;name;type;badge
 main;bio-processing-alien;bio-processing-alien-large;alien-artifact;item;x1
 main;bio-processing-alien;bio-processing-alien-pre;alien-pre-artifact-base;item;x1
 ```
-Note that all fields mut begin with a letter, and quotation marks are not used.
+Note that all fields must begin with a letter, and quotation marks are not used.
 
 Contact me through here, discussion on the mod portal, or the SeaBlock Discord.
 
