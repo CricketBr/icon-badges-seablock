@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.01
+Date: 2024-01- ???
+  Major Features:
+	- TBA
+  Plans:
+    - replace bigtable with cvs compatible, and tips for libreoffice
+	- make it all one big table, not main and Englishmetals
+---------------------------------------------------------------------------------------------------
+Version: 0.1.01
+Date: 2024-01-30
+  Major Features:
+    - newmod
+	- icon-badges still objects to several SB items. I was able to fix some, but Galdoc will have to do the next one.
+  Plans:
+    - replace bigtable with cvs compatible, and tips for libreoffice
