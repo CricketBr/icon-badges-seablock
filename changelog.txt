@@ -1,16 +1,38 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.01
-Date: 2024-01- ???
+Version: 0.1.04
+Date: 2024-02-13
   Major Features:
-	- TBA
+    - First Beta Release.
+    - Barelling done.
+  Minor Features:
+    - much proof-reading done
+    - back to csv method, one line per item per badgeset
+---------------------------------------------------------------------------------------------------
+Version: 0.1.03
+Date: 2024-02-11
+  Major Features:
+    - Works with IB's new function Build_badges, instead of adding properties to  prototypes.
+    - Uses pcall() to log error message when Build_badges fails, and keep running.
+    - Change the format of bigtable multiple times. Last one was one line per badgeset per prototype.
+    - Oops, not releasing this one either. There's an even better way to manage the data.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.02
+Date: 2024-01-06
+  Major Features:
+    - It compiles, but the badges aren't as expected. Some items don't have badges at all, even though they have 1-3-letter badges. Some have only the first letter.
+    - Replaced bigtable with cvs-like file, complete with tips for editing in spreadsheet.
+    - Changed how settings work for the badge sets.
   Plans:
-    - replace bigtable with cvs compatible, and tips for libreoffice
-	- make it all one big table, not main and Englishmetals
+    - Fix the position. All should be right-top, because SB puts other information in all other corners.
+    - Fix the items that have badgeset _broken. Hopefully it's just typos.
+    - Do the recipes that don't take icons from main_product. Leave this until after icons from all items and fluids are working.
+    - Activate two badge sets for science: color and Name.
+    - Make the settings startup and by player, if possible.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.01
 Date: 2024-01-30
   Major Features:
     - newmod
-	- icon-badges still objects to several SB items. I was able to fix some, but Galdoc will have to do the next one.
+    - icon-badges still objects to several SB items. I was able to fix some, but Galdoc will have to do the next one.
   Plans:
     - replace bigtable with cvs compatible, and tips for libreoffice
