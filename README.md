@@ -8,7 +8,7 @@ The mod is limited to a 1-3 character string, consisting of lower- or upper-case
 
 Many thanks to Galdoc. My bit was long but fairly easy. Creating Icon Badges, with all its features, plus getting it to work with SeaBlock, was much harder. Also thanks to jodokus31 for the csv import function.
 
-##For Modders
+## For Modders
 
 Each prototype is part of a single badgegroup, eg metals. Each badgegroup can have more than one badgeset, eg metals-English and metals-Latin. Each badgegroup can have only one active set, chosen in Settings. If an item does not have an entry for that set, there will be no badge.
 
@@ -16,7 +16,7 @@ The badges are stored in a single, very large, csv table. VSCode's Rainbow CSV e
 
 To make sweeping changes, it might be worth converting it to a csv file. Change the file type, open in your favourite editor, and edit, then Save As CSV, with file type lua. The order of the rows does not affect the program. I found OpenOffice Calc worked well.
 
-Data File Sample
+## Data File Sample
 
 return [[
 group;subgroup;name;type;badgegroup;badgeset
