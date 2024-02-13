@@ -28,3 +28,6 @@ group;subgroup;name;type;badgegroup;badgeset
 ]]
 ```
 Headings do not have quotes. Data has double-quotes.
+
+## Future Plans
+Divide the data file into multiple files.
