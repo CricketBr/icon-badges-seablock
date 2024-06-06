@@ -1,0 +1,1 @@
+Ib_global.badge_vanilla = false
