@@ -1,16 +1,16 @@
 {
-  "title": "Icon Badges Groups SeaBlock",
-  "name": "icon-badges-groups-seablock",
+  "title": "Icon Badges for SeaBlock",
+  "name": "icon-badges-seablock",
   "author": "cricket",
   "version": "0.2.02",
   "factorio_version": "1.1",
   "contact": "cricket@onebit.ca , cricketb on Discord, CrBr on Reddit.",
   "license": "",
-  "description": "Adds Icon Badges to SeaBlock via Icon Badges Groups.",
+  "description": "Adds Icon Badges to SeaBlock via Icon Badges Groups. Tested with SB 0.5.12 and SBPack 1.1.4.",
   "dependencies": [
     "base",
-    "SeaBlock >=0.5.12",
-    "? SeaBlockMetaPack >= 1.1.4",
+    "SeaBlock",
+    "? SeaBlockMetaPack",
     "icon-badges >= 1.1.07",
     "icon-badges-groups"
   ]
