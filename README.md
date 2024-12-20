@@ -1,4 +1,4 @@
-Icon Badges Groups Nullius/SeaBlock is the data, and a few function calls, for [Icon Badges by Galdoc](https://mods.factorio.com/mod/icon-badges) and [Icon Badges Groups](https://mods.factorio.com/mod/icon-badges-groups) to work with Nullius/SeaBlock.
+Icon Badges Groups Nullius/SeaBlock is the data, and a few function calls, for [Icon Badges by Galdoc](https://mods.factorio.com/mod/icon-badges) and [Icon Badges Groups](https://mods.factorio.com/mod/icon-badges-groups) to work with Nullius/SeaBlock in the game Factorio.
 
 It has a (large!) csv-like file listing all the icons, and a badge for each badgegroup the icon is in. It also has data for the settings menu, so the player can choose which badgegroups to use, eg metals-group-english or metals-group-scientific.
 
